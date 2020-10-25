@@ -1,12 +1,23 @@
-# pubg-ipad-view
 
-pubg mobile android to ipad view
+# Welcome!
+**pubg android to ipad view**
+[DOWNLOAD](https://github.com/shajahanubaid/pubg-ipad-view/raw/main/CLOWNS%20IPAD%20_1.0.apk)
 
-1) open  ipad view application
+# How to use
+1. Open ipad view application
+2. Type password
+3. Log in
+4. Select your version
+5. Minimize  application
+6. Open pubg
 
-2) type password
-Pass is anubis
-3)   log in
 
-4)   select your version 
-5)  minimize  app  And open pubg........
+
+
+
+
+
+
+
+
+
